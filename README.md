@@ -8,7 +8,7 @@
 <img height="150em" align = "center" src="https://github-readme-stats.vercel.app/api?username=rajatverma311201&show_icons=true&count_private=true&hide=stars" />
  </a>
 <a href="https://github.com/rajatverma311201/">
-<img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatverma311201&layout=compact&hide=html,ejs,ruby,shell" />
+<img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatverma311201&layout=compact&hide=html,ejs,ruby,shell,scss" />
 </a>
 
 ### :hammer_and_wrench: Languages and Tools :
