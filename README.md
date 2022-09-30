@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://github.com/tusharrao198/tusharrao198">
+<a href="https://github.com/rajatverma311201/rajatverma311201">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatverma311201&count_private=true&show_icons=true&hide=stars" />
 </a>
-<a href="https://github.com/tusharrao198/tusharrao198">
+<a href="https://github.com/rajatverma311201/rajatverma311201">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatverma311201&hide=java,css,html,ejs,procfile" />
 </a>
