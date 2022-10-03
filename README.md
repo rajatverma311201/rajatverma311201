@@ -1,9 +1,6 @@
 ## Hi, I am Rajat Verma
 
-### I am a full stack Javascript Developer
-
-### I mainly work on MERN Stack
-
+### I am a full stack Javascript Developer, MERN is my favourite Tech Stack
 <a href="https://github.com/rajatverma311201/">
 <img height="150em" align = "center" src="https://github-readme-stats.vercel.app/api?username=rajatverma311201&show_icons=true&count_private=true&hide=stars" />
  </a>
