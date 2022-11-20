@@ -10,7 +10,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div >
+<div style="background-color:white" >
 <img align="center" style="margin:1rem" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;&nbsp;
 <img align="center" style="margin:1rem" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;&nbsp;
 <img align="center" style="margin:1rem" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="50" height="50"/>&nbsp;&nbsp;
