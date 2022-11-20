@@ -20,7 +20,7 @@
 <img align="center" style="margin:1rem" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="50" height="50"/>&nbsp;&nbsp;
 <img align="center" style="margin:1rem" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="50" height="50"/>&nbsp;&nbsp;
 <img align="center" style="margin:1rem" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="django" alt="django" width="50" height="50"/>&nbsp;&nbsp;
-<img align="center" style="margin:1rem" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="flask" alt="flask" width="50" height="50"/>&nbsp;&nbsp;
+<img align="center" style="margin:1rem" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="flask" alt="flask" width="50" bgcolor="white" height="50"/>&nbsp;&nbsp;
 <img align="center" style="margin:1rem" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="50" height="50"/>&nbsp;&nbsp;
 <img align="center" style="margin:1rem" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;&nbsp;
 <img align="center" style="margin:1rem" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="50" height="50"/>&nbsp;&nbsp;
