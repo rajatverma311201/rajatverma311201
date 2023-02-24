@@ -3,15 +3,15 @@
 ### I am a full stack Javascript Developer, MERN is my favourite Tech Stack
 <div style="margin:1rem">
 <a href="https://github.com/rajatverma311201/">
-<img height="150em" align = "center" src="https://github-readme-stats.vercel.app/api?username=rajatverma311201&show_icons=true&count_private=true&hide=stars&theme=react" />
+<img height="170em" align = "center" src="https://github-readme-stats.vercel.app/api?username=rajatverma311201&show_icons=true&count_private=true&hide=stars&theme=react" />
  </a>
- &nbsp;&nbsp;
+
 <a href="https://github.com/rajatverma311201/">
-<img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatverma311201&layout=compact&hide=html,ejs,ruby,shell,scss&theme=react" />
+<img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatverma311201&layout=compact&hide=html,ejs,ruby,shell,scss&theme=react" />
 </a>
- &nbsp;&nbsp;
+
 <a href="https://github.com/rajatverma311201/" style="padding:5rem; margin-left:auto; margin-right:auto">
-  <img align="center" height="150em"   src="https://github-readme-streak-stats.herokuapp.com/?user=rajatverma311201&theme=react" />
+  <img align="center" height="170em"   src="https://github-readme-streak-stats.herokuapp.com/?user=rajatverma311201&theme=react" />
 </a>
 </div>
 ### :hammer_and_wrench: Languages and Tools :
