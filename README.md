@@ -18,6 +18,6 @@
 :hammer_and_wrench: Languages and Tools :
  </h2>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,ts,py,cpp,nodejs,react,nextjs,redux,mongodb,nestjs,docker,kubernetes,express,django,css,sass,tailwind,spring,mysql,git,github,flask,firebase,linux,jquery,html,postman,vscode,wordpress&perline=10" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,py,cpp,nodejs,express,react,nextjs,redux,mongodb,nestjs,docker,kubernetes,django,css,sass,tailwind,spring,mysql,git,github,flask,firebase,linux,jquery,html,postman,vscode,wordpress&perline=10" />
 
 </p>
