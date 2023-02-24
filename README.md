@@ -1,7 +1,7 @@
 ## Hi, I am Rajat Verma
 
 ### I am a full stack Javascript Developer, MERN is my favourite Tech Stack
-<div style="margin:1rem">
+<p style="margin:1rem" align="center">
 <a href="https://github.com/rajatverma311201/">
 <img height="170em" align = "center" src="https://github-readme-stats.vercel.app/api?username=rajatverma311201&show_icons=true&count_private=true&hide=stars&theme=react" />
  </a>
@@ -13,25 +13,11 @@
 <a href="https://github.com/rajatverma311201/" style="padding:5rem; margin-left:auto; margin-right:auto">
   <img align="center" height="170em"   src="https://github-readme-streak-stats.herokuapp.com/?user=rajatverma311201&theme=react" />
 </a>
-</div>
-### :hammer_and_wrench: Languages and Tools :
+</p>
+<h2 align="center" style="margin:1rem">
+:hammer_and_wrench: Languages and Tools :
+ </h2>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,js,ts,py,cpp,nodejs,react,nextjs,redux,mongodb,nestjs,docker,kubernetes,express,django,css,sass,tailwind,spring,mysql,git,github,flask,firebase,linux,jquery,html,postman,vscode,wordpress&perline=10" />
 
-<div style="background-color:white" >
-<img align="center" style="margin:1rem" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;&nbsp;
-<img align="center" style="margin:1rem" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;&nbsp;
-<img align="center" style="margin:1rem" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="50" height="50"/>&nbsp;&nbsp;
-<img align="center" style="margin:1rem" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="75" height="75"/>&nbsp;&nbsp;
-<img align="center" style="margin:1rem" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;&nbsp;
-<img align="center" style="margin:1rem" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="nextjs" alt="nextjs" width="50" height="50"/>&nbsp;&nbsp;
-<img align="center" style="margin:1rem" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="50" height="50"/>&nbsp;&nbsp;
-<img align="center" style="margin:1rem" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="50" height="50"/>&nbsp;&nbsp;
-<img align="center" style="margin:1rem" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="django" alt="django" width="50" height="50"/>&nbsp;&nbsp;
-<img align="center" style="margin:1rem;backgroundg-color:white" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="flask" alt="flask" width="50"  height="50"/>&nbsp;&nbsp;
-<img align="center" style="margin:1rem" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="50" height="50"/>&nbsp;&nbsp;
-<img align="center" style="margin:1rem" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;&nbsp;
-<img align="center" style="margin:1rem" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="50" height="50"/>&nbsp;&nbsp;
-<img align="center" style="margin:1rem" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="tailwind" alt="tailwind" width="75" height="75"/>&nbsp;&nbsp;
-<img align="center" style="margin:1rem" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;&nbsp;
-<img align="center" style="margin:1rem" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>&nbsp;&nbsp;
-<img align="center" style="margin:1rem" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;&nbsp;
-</div>
+</p>
