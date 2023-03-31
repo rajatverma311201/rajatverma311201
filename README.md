@@ -1,7 +1,8 @@
 ## Hi, I am Rajat Verma
 
 ### A full stack Javascript Developer
-- ReactJS, React Native, NextJS and Angular
+- ReactJS(Web) and React Native(Mobile - Android & IOS)
+- NextJS, Angular
 - NodeJS and ExpressJS
 - MongoDB and Mongoose
 
