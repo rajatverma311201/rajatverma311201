@@ -1,22 +1,22 @@
 ## Hi, I am Rajat Verma
-
 ### A full stack Javascript Developer
+
 - ReactJS(Web) and React Native(Mobile - Android & IOS)
 - NextJS, Angular
 - NodeJS and ExpressJS
 - MongoDB and Mongoose
-
+- 
 <p style="margin:1rem" align="center">
-<a href="https://github.com/rajatverma311201/">
+<!-- <a href="https://github.com/rajatverma311201/"> -->
 <img height="170em" align = "center" src="https://github-readme-stats.vercel.app/api?username=rajatverma311201&show_icons=true&count_private=true&hide=stars&theme=react" />
- </a>
+<!--  </a> -->
 
-<a href="https://github.com/rajatverma311201/">
+<!-- <a href="https://github.com/rajatverma311201/"> -->
 <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatverma311201&layout=compact&hide=html,ejs,ruby,shell,scss&theme=react" />
-</a>
+<!-- </a> -->
 
-<a href="https://github.com/rajatverma311201/" style="padding:5rem; margin-left:auto; margin-right:auto">
-  <img align="center" height="170em"   src="https://github-readme-streak-stats.herokuapp.com/?user=rajatverma311201&theme=react" />
+<!-- <a href="https://github.com/rajatverma311201/" style="padding:5rem; margin-left:auto; margin-right:auto"> -->
+<!--   <img align="center" height="170em"   src="https://github-readme-streak-stats.herokuapp.com/?user=rajatverma311201&theme=react" /> -->
 </a>
 </p>
 <p>
