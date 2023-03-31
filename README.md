@@ -1,6 +1,10 @@
 ## Hi, I am Rajat Verma
 
-### I am a full stack Javascript Developer, MERN is my favourite Tech Stack
+### A full stack Javascript Developer
+- ReactJS, React Native, NextJS and Angular
+- NodeJS and ExpressJS
+- MongoDB and Mongoose
+
 <p style="margin:1rem" align="center">
 <a href="https://github.com/rajatverma311201/">
 <img height="170em" align = "center" src="https://github-readme-stats.vercel.app/api?username=rajatverma311201&show_icons=true&count_private=true&hide=stars&theme=react" />
