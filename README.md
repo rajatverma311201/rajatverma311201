@@ -8,11 +8,11 @@
 
 <p style="margin:1rem" align="center">
 <!-- <a href="https://github.com/rajatverma311201/"> -->
-<img height="170em" align = "center" src="https://github-readme-stats.vercel.app/api?username=rajatverma311201&show_icons=true&count_private=true&hide=stars&theme=react" />
+<img height="170em" align = "center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rajatverma311201&show_icons=true&count_private=true&hide=stars&theme=react" />
 <!--  </a> -->
 
 <!-- <a href="https://github.com/rajatverma311201/"> -->
-<img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatverma311201&layout=compact&hide=html,ejs,ruby,shell,scss&theme=react" />
+<img height="170em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rajatverma311201&layout=compact&hide=html,ejs,ruby,shell,scss&theme=react" />
 <!-- </a> -->
 
 <!-- <a href="https://github.com/rajatverma311201/" style="padding:5rem; margin-left:auto; margin-right:auto"> -->
