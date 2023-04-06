@@ -8,15 +8,15 @@
 
 <p style="margin:1rem" align="center">
 <!-- <a href="https://github.com/rajatverma311201/"> -->
-<img height="170em" align = "center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rajatverma311201&show_icons=true&count_private=true&hide=stars&theme=react" />
+<img height="175em" align = "center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rajatverma311201&show_icons=true&count_private=true&hide=stars&theme=react" />
 <!--  </a> -->
 
 <!-- <a href="https://github.com/rajatverma311201/"> -->
-<img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatverma311201&layout=compact&langs_count=10&hide=html,ejs,ruby,shell&theme=react" />
+<img height="175em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatverma311201&layout=compact&langs_count=10&hide=html,ejs,ruby,shell&theme=react" />
 <!-- </a> -->
 
 <!-- <a href="https://github.com/rajatverma311201/" style="padding:5rem; margin-left:auto; margin-right:auto"> -->
-  <img align="center" height="170em"   src="https://github-readme-streak-stats.herokuapp.com/?user=rajatverma311201&theme=react" />
+  <img align="center" height="175em"   src="https://github-readme-streak-stats.herokuapp.com/?user=rajatverma311201&theme=react" />
 <!-- </a> -->
 </p>
 <p>
