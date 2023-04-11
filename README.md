@@ -1,5 +1,5 @@
 ## Hi, I am Rajat Verma
-### A full stack JavaScript/TypeScript Developer
+### A full stack JavaScript / TypeScript Developer
 
 - ReactJS(Web) and React Native(Mobile - Android & IOS)
 - NextJS, Angular
