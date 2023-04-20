@@ -25,7 +25,7 @@
  </h2>
 <p align="center">
 <!-- <img src="https://skillicons.dev/icons?i=java,js,ts,py,cpp,nodejs,express,react,nextjs,redux,mongodb,nestjs,docker,kubernetes,django,css,sass,tailwind,spring,mysql,git,github,flask,firebase,linux,jquery,html,postman,vscode,wordpress&perline=10" /> -->
- <img src="https://skillicons.dev/icons?i=java,js,ts,py,cpp,nodejs,express,react,nextjs,redux,angular,mongodb,nestjs,docker,django,materialui,css,sass,tailwind,spring,mysql,git,github,flask,firebase,linux,jquery,html,postman,vscode,wordpress&perline=10" />
+ <img src="https://skillicons.dev/icons?i=java,js,ts,py,cpp,nodejs,express,react,nextjs,redux,angular,mongodb,nestjs,docker,django,materialui,css,sass,tailwind,spring,mysql,git,github,flask,firebase,linux,jquery,html,postman,vscode&perline=10" />
 
 </p>
 </p>
