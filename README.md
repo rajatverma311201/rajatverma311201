@@ -25,7 +25,7 @@
 </p>
 <p>
 <h2 align="center" style="margin:5rem">
-:hammer_and_wrench: Languages and Tools :
+:hammer_and_wrench: Languages, Libraries/Frameworks and Tools :
  </h2>
 <p align="center">
 <!-- <img src="https://skillicons.dev/icons?i=java,js,ts,py,cpp,nodejs,express,react,nextjs,redux,mongodb,nestjs,docker,kubernetes,django,css,sass,tailwind,spring,mysql,git,github,flask,firebase,linux,jquery,html,postman,vscode,wordpress&perline=10" /> -->
