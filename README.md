@@ -1,6 +1,6 @@
 # Hi, I am Rajat Verma
 
-## <a href="https://rajat-verma.netlify.app">Checkout my portfolio<span>&rarr;</span></a>
+## <a href="https://rajat-verma.netlify.app" target="_blank">Checkout my portfolio<span>&rarr;</span></a>
 
 ### A full stack JavaScript / TypeScript Developer
 
