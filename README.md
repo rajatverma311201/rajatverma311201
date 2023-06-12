@@ -1,6 +1,6 @@
 # Hi, I am Rajat Verma
 
-## [Check Out My Portfolio](https://rajat-verma.netlify.app)<span>&rarr;</span>
+## <a href="https://rajat-verma.netlify.app">Checkout my portfolio<span>&rarr;</span></a>
 
 ### A full stack JavaScript / TypeScript Developer
 
@@ -42,6 +42,10 @@
 </a> -->
 <a href="https://www.linkedin.com/in/rajatverma311201/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://rajatverma.hashnode.dev/" target="_blank">
+<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://twitter.com/rajatverma3112" target="_blank">
