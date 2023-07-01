@@ -5,10 +5,10 @@
 ### A full stack JavaScript / TypeScript Developer
 
 
-- React(Web), React Native and Flutter(Mobile)
+- React(Web), React Native & Flutter(Mobile)
 - NextJS, Sass
-- NodeJS and ExpressJS
-- MongoDB and Mongoose
+- NodeJS & ExpressJS
+- MongoDB & Mongoose
 
 <p style="margin:1rem" align="center">
 <!-- <a href="https://github.com/rajatverma311201/"> -->
