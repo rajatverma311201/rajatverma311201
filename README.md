@@ -5,7 +5,7 @@
 ### A full stack JavaScript / TypeScript Developer
 
 
-- React(Web), React Native & Flutter(Mobile)
+- React(Web), React Native(Mobile) & Flutter(Mobile)
 - NextJS, Sass
 - NodeJS & ExpressJS
 - MongoDB & Mongoose
