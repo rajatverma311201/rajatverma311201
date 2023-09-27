@@ -6,7 +6,7 @@
 
 
 - React(Web), React Native(Mobile) & Flutter(Mobile)
-- NextJS, Sass, CSS
+- NextJS, Sass
 - NodeJS & ExpressJS
 - MongoDB & Mongoose
 
