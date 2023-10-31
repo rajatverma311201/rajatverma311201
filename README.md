@@ -20,7 +20,7 @@
 <!-- </a> -->
 
 <!-- <a href="https://github.com/rajatverma311201/" style="padding:5rem; margin-left:auto; margin-right:auto"> -->
-  <img align="center" height="180em"   src="https://github-readme-streak-stats.herokuapp.com/?user=rajatverma311201&theme=react" />
+ <!-- <img align="center" height="180em"   src="https://github-readme-streak-stats.herokuapp.com/?user=rajatverma311201&theme=react" />-->
 <!-- </a> -->
 </p>
 <p>
