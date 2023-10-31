@@ -16,7 +16,7 @@
 <!--  </a> -->
 
 <!-- <a href="https://github.com/rajatverma311201/"> -->
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatverma311201&layout=compact&langs_count=8&hide=html,ejs,ruby,shell&theme=react" />
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatverma311201&layout=compact&langs_count=8&hide=html,ejs,ruby,shell,jupyternotebook&theme=react" />
 <!-- </a> -->
 
 <!-- <a href="https://github.com/rajatverma311201/" style="padding:5rem; margin-left:auto; margin-right:auto"> -->
