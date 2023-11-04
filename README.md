@@ -1,8 +1,9 @@
 # Hi, I am Rajat Verma
 
+### A full stack JavaScript / TypeScript Developer
+
 ## <a href="https://rajat-verma.vercel.app" target="_blank">Checkout my portfolio<span>&rarr;</span></a>
 
-### A full stack JavaScript / TypeScript Developer
 
 
 - React(Web), React Native(Mobile) & Flutter(Mobile)
