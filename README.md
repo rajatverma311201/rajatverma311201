@@ -2,7 +2,7 @@
 
 ### A full stack JavaScript / TypeScript Developer
 
-## <a href="https://rajat-verma.vercel.app" target="_blank">Checkout my portfolio<span>&rarr;</span></a>
+## <a href="https://www.rajat-verma.in/" target="_blank">Checkout my portfolio<span>&rarr;</span></a>
 
 
 
