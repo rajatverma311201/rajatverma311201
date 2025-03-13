@@ -6,10 +6,11 @@
 
 
 
-- React(Web), React Native(Mobile) & Flutter(Mobile)
-- NextJS, Sass
+- React, React Native
+- NextJS, TailwindCSS
 - NodeJS & ExpressJS
 - MongoDB & Mongoose
+- TypeScript
 
 <p style="margin:1rem" align="center">
 <img height="180em" align = "center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rajatverma311201&show_icons=true&count_private=true&hide=stars&theme=react" />
@@ -42,15 +43,12 @@
 <a href="https://www.linkedin.com/in/rajatverma311201/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;
 <a href="https://rajatverma.hashnode.dev/" target="_blank">
 <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
 </a>
-&nbsp;
 <a href="https://twitter.com/rajatverma3112" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-&nbsp;
 <a href="https://www.instagram.com/rajat_verma3112/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
