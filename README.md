@@ -28,7 +28,7 @@
 :hammer_and_wrench: Languages, Libraries/Frameworks and Tools :
  </h2>
 <p align="center">
-<!-- <img src="https://skillicons.dev/icons?i=java,js,ts,py,cpp,nodejs,express,react,nextjs,redux,mongodb,nestjs,docker,kubernetes,django,css,sass,tailwind,spring,mysql,git,github,flask,firebase,linux,jquery,html,postman,vscode,wordpress&perline=10" /> -->
+<!-- <img src="https://skillicons.dev/icons?i=js,ts,java,py,cpp,nodejs,express,react,nextjs,redux,mongodb,nestjs,docker,kubernetes,django,css,sass,tailwind,spring,mysql,git,github,flask,firebase,linux,jquery,html,postman,vscode,wordpress&perline=10" /> -->
  <img src="https://skillicons.dev/icons?i=java,js,ts,py,cpp,react,redux,nodejs,express,nextjs,flutter,dart,supabase,mongodb,postgres,mysql,nestjs,docker,redis,django,css,sass,tailwind,spring,git,github,flask,firebase,vite,linux,html,postman,vscode&perline=10" />
 
 </p>
