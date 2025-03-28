@@ -15,11 +15,8 @@
 <p style="margin:1rem" align="center">
 <img height="180em" align = "center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rajatverma311201&show_icons=true&count_private=true&hide=stars&theme=react" />
 
-<!-- <a href="https://github.com/rajatverma311201/"> -->
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatverma311201&layout=compact&langs_count=8&hide=html,ejs,ruby,shell,jupyter%20notebook&theme=react" />
-<!-- </a> -->
 
-<!-- <a href="https://github.com/rajatverma311201/" style="padding:5rem; margin-left:auto; margin-right:auto"> -->
   <img align="center" height="180em"   src="https://streak-stats.demolab.com/?user=rajatverma311201&theme=react" />
 <!-- </a> -->
 </p>
